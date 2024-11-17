@@ -12,7 +12,6 @@
 
 ## Download
 * Go to [Download](https://github.com/maxxximgb/alphares/releases/download/Latest/alphares.rar)
-* Password: code10
 
 
 ## FAQ
